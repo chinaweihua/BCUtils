@@ -18,7 +18,7 @@ import static com.bencao.utils.ConvertUtils.bytes2HexString;
 import static com.bencao.utils.ConvertUtils.hexString2Bytes;
 
 /**
- * 加密解密相关的工具类
+ * 加密解密相关的工具类aaaaaaa
  */
 public class EncryptUtils {
 
