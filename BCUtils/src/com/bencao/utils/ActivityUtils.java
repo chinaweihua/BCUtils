@@ -61,7 +61,7 @@ public class ActivityUtils {
      * 获取launcher activity
      *
      * @param context     上下文
-     * @param packageName 包名
+     * @param packageName 包名  
      * @return launcher activity
      */
     public static String getLauncherActivity(Context context, String packageName) {
